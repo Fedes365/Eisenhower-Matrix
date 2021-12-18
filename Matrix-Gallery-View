@@ -1,0 +1,1055 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
+  "height": 840,
+  "width": 1480,
+  "hideSelection": true,
+  "fillHorizontally": false,
+  "formatter": {
+    "elmType": "div",
+    "style": {
+      "display": "flex",
+      "align-items": "center",
+      "justify-content": "center",
+      "background-color": "#edf1ff",
+      "height": "840px",
+      "border-radius": "8px 8px",
+      "border": "solid 2px #5f77cf"
+    },
+    "children": [
+      {
+        "elmType": "div",
+        "style": {
+          "width": "1300px",
+          "height": "680px",
+          "background-color": "",
+          "display": "flex",
+          "flex-wrap": "wrap",
+          "align-items": "center",
+          "justify-content": "center"
+        },
+        "children": [
+          {
+            "elmType": "div",
+            "style": {
+              "box-sizing": "border-box",
+              "background-color": "#81fca6",
+              "width": "590px",
+              "height": "340px",
+              "border-radius": "10px 0px 0px 0px",
+              "border-top": "solid 11px #47d171"
+            },
+            "children": [
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_1]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "display": "flex",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_1]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_2]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_2]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_3]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_3]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_4]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_4]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_5]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_5]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_6]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_6]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DO_7]",
+                "style": {
+                  "--inline-editor-border-color": "green",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "margin-top": "0px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DO_7]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
+                }
+              }
+            ]
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "box-sizing": "border-box",
+              "background-color": "#9cdeff",
+              "width": "590px",
+              "height": "340px",
+              "border-radius": "0px 10px 0px 0px",
+              "border-top": "solid 11px #37a6de"
+            },
+            "children": [
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_1]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_1]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_2]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_2]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_3]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_3]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_4]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_4]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_5]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_5]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_6]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_6]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$SCHEDULE_7]",
+                "style": {
+                  "--inline-editor-border-color": "darkblue",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$SCHEDULE_7]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
+                }
+              }
+            ]
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "box-sizing": "border-box",
+              "background-color": "#ffef85",
+              "width": "590px",
+              "height": "340px",
+              "border-radius": "0px 0px 0px 10px",
+              "border-bottom": "solid 11px #ffa500"
+            },
+            "children": [
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_1]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_1]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_2]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_2]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_3]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_3]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_4]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_4]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_5]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_5]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_6]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_6]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$DELEGATE_7]",
+                "style": {
+                  "--inline-editor-border-color": "darkorange",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$DELEGATE_7]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
+                }
+              }
+            ]
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "box-sizing": "border-box",
+              "background-color": "#ffb8b8",
+              "width": "590px",
+              "height": "340px",
+              "border-radius": "0px 0px 10px 0px",
+              "border-bottom": "solid 11px #f06262"
+            },
+            "children": [
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_1]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_1]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_2]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_2]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_3]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_3]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_4]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_4]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_5]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_5]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_6]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_6]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              },
+              {
+                "elmType": "div",
+                "inlineEditField": "[$ELIMINATE_7]",
+                "style": {
+                  "--inline-editor-border-color": "darkred",
+                  "cursor": "cell",
+                  "width": "574px",
+                  "height": "47px",
+                  "display": "flex",
+                  "padding-left": "8px",
+                  "padding-right": "8px",
+                  "align-items": "center",
+                  "justify-content": "center",
+                  "text-align": "center",
+                  "font-size": "15px"
+                },
+                "txtContent": "[$ELIMINATE_7]",
+                "attributes": {
+                  "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
+                }
+              }
+            ]
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#373277",
+              "width": "1180px",
+              "height": "3px",
+              "position": "absolute",
+              "top": "auto",
+              "left": "auto"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#373277",
+              "width": "3px",
+              "height": "680px",
+              "position": "absolute",
+              "top": "auto",
+              "left": "auto"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "",
+              "width": "0px",
+              "height": "0px",
+              "position": "absolute",
+              "border-left": "10px solid transparent",
+              "border-right": "10px solid transparent",
+              "border-bottom": "20px solid #373277",
+              "top": "60px",
+              "left": "auto"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "",
+              "width": "0px",
+              "height": "0px",
+              "position": "absolute",
+              "border-left": "10px solid transparent",
+              "border-right": "10px solid transparent",
+              "border-top": "20px solid #373277",
+              "top": "760px",
+              "left": "auto"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "",
+              "width": "0px",
+              "height": "0px",
+              "position": "absolute",
+              "border-top": "10px solid transparent",
+              "border-right": "20px solid #373277",
+              "border-bottom": "10px solid transparent",
+              "top": "auto",
+              "left": "130px"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "",
+              "width": "0px",
+              "height": "0px",
+              "position": "absolute",
+              "border-top": "10px solid transparent",
+              "border-left": "20px solid #373277",
+              "border-bottom": "10px solid transparent",
+              "top": "auto",
+              "left": "1330px"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "white",
+              "width": "18px",
+              "height": "18px",
+              "position": "absolute",
+              "border-radius": "50px 50px",
+              "border": "3px solid #373277"
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "white",
+              "width": "",
+              "height": "40px",
+              "padding-left": "6px",
+              "padding-right": "6px",
+              "position": "absolute",
+              "font-size": "24px",
+              "top": "auto",
+              "left": "32px",
+              "border": "dotted 1px #373277",
+              "border-radius": "5px"
+            },
+            "attributes": {
+              "class": "sp-css-color-DarkPurpleText sp-field-bold"
+            },
+            "txtContent": "Urgent"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "white",
+              "width": "110px",
+              "height": "72px",
+              "position": "absolute",
+              "font-size": "24px",
+              "top": "auto",
+              "left": "1354px",
+              "text-align": "center",
+              "border": "dotted 1px #373277",
+              "border-radius": "5px"
+            },
+            "attributes": {
+              "class": "sp-css-color-DarkPurpleText sp-field-bold"
+            },
+            "txtContent": "Not urgent"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "white",
+              "width": "150px",
+              "height": "40px",
+              "position": "absolute",
+              "font-size": "24px",
+              "top": "16px",
+              "left": "auto",
+              "text-align": "center",
+              "border": "dotted 1px #373277",
+              "border-radius": "5px"
+            },
+            "attributes": {
+              "class": "sp-css-color-DarkPurpleText sp-field-bold"
+            },
+            "txtContent": "Important"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "white",
+              "width": "200px",
+              "height": "40px",
+              "position": "absolute",
+              "font-size": "24px",
+              "top": "780px",
+              "left": "auto",
+              "text-align": "center",
+              "border": "dotted 1px #373277",
+              "border-radius": "5px"
+            },
+            "attributes": {
+              "class": "sp-css-color-DarkPurpleText sp-field-bold"
+            },
+            "txtContent": "Not important"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#47d171",
+              "width": "220px",
+              "height": "38px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "48px",
+              "left": "150px",
+              "text-align": "center",
+              "padding-top": "2px",
+              "border-radius": "5px 0px 0px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText"
+            },
+            "txtContent": "='Do first' + ' has ' + (length([$DO_1])+length([$DO_2])+length([$DO_3])+length([$DO_4])+length([$DO_5])+length([$DO_6])+length([$DO_7])) + if((length([$DO_1])+length([$DO_2])+length([$DO_3])+length([$DO_4])+length([$DO_5])+length([$DO_6])+length([$DO_7])) ==1, ' task', ' tasks')"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "cursor": "pointer",
+              "background-color": "#47d171",
+              "width": "40px",
+              "height": "35px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "48px",
+              "left": "370px",
+              "padding-top": "5px",
+              "text-align": "center",
+              "border-radius": "0px 5px 0px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText",
+              "iconName": "Trash",
+              "title": "Delete all"
+            },
+            "customRowAction": {
+              "action": "setValue",
+              "actionInput": {
+                "DO_1": "",
+                "DO_2": "",
+                "DO_3": "",
+                "DO_4": "",
+                "DO_5": "",
+                "DO_6": "",
+                "DO_7": ""
+              }
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#37a6de",
+              "width": "220px",
+              "height": "38px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "48px",
+              "left": "1110px",
+              "text-align": "center",
+              "padding-top": "2px",
+              "border-radius": "0px 5px 0px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText"
+            },
+            "txtContent": "='Schedule' + ' has ' + (length([$SCHEDULE_1])+length([$SCHEDULE_2])+length([$SCHEDULE_3])+length([$SCHEDULE_4])+length([$SCHEDULE_5])+length([$SCHEDULE_6])+length([$SCHEDULE_7])) + if((length([$SCHEDULE_1])+length([$SCHEDULE_2])+length([$SCHEDULE_3])+length([$SCHEDULE_4])+length([$SCHEDULE_5])+length([$SCHEDULE_6])+length([$SCHEDULE_7])) ==1, ' task', ' tasks')"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "cursor": "pointer",
+              "background-color": "#37a6de",
+              "width": "40px",
+              "height": "35px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "48px",
+              "left": "1070px",
+              "padding-top": "5px",
+              "text-align": "center",
+              "border-radius": "5px 0px 0px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText",
+              "iconName": "Trash",
+              "title": "Delete all"
+            },
+            "customRowAction": {
+              "action": "setValue",
+              "actionInput": {
+                "SCHEDULE_1": "",
+                "SCHEDULE_2": "",
+                "SCHEDULE_3": "",
+                "SCHEDULE_4": "",
+                "SCHEDULE_5": "",
+                "SCHEDULE_6": "",
+                "SCHEDULE_7": ""
+              }
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#ffa500",
+              "width": "220px",
+              "height": "36px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "750px",
+              "left": "150px",
+              "text-align": "center",
+              "padding-top": "4px",
+              "border-radius": "0px 0px 0px 5px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText"
+            },
+            "txtContent": "='Delegate ' + ' has ' + (length([$DELEGATE_1])+length([$DELEGATE_2])+length([$DELEGATE_3])+length([$DELEGATE_4])+length([$DELEGATE_5])+length([$DELEGATE_6])+length([$DELEGATE_7])) +  if((length([$DELEGATE_1])+length([$DELEGATE_2])+length([$DELEGATE_3])+length([$DELEGATE_4])+length([$DELEGATE_5])+length([$DELEGATE_6])+length([$DELEGATE_7])) ==1, ' task', ' tasks')"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "cursor": "pointer",
+              "background-color": "#ffa500",
+              "width": "40px",
+              "height": "30px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "750px",
+              "left": "370px",
+              "padding-top": "10px",
+              "text-align": "center",
+              "border-radius": "0px 0px 5px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText",
+              "iconName": "Trash",
+              "title": "Delete all"
+            },
+            "customRowAction": {
+              "action": "setValue",
+              "actionInput": {
+                "DELEGATE_1": "",
+                "DELEGATE_2": "",
+                "DELEGATE_3": "",
+                "DELEGATE_4": "",
+                "DELEGATE_5": "",
+                "DELEGATE_6": "",
+                "DELEGATE_7": ""
+              }
+            }
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "background-color": "#f06262",
+              "width": "220px",
+              "height": "36px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "750px",
+              "left": "1110px",
+              "text-align": "center",
+              "padding-top": "4px",
+              "border-radius": "0px 0px 5px 0px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText"
+            },
+            "txtContent": "='Eliminate ' + ' has ' + (length([$ELIMINATE_1])+length([$ELIMINATE_2])+length([$ELIMINATE_3])+length([$ELIMINATE_4])+length([$ELIMINATE_5])+length([$ELIMINATE_6])+length([$ELIMINATE_7])) +  if((length([$ELIMINATE_1])+length([$ELIMINATE_2])+length([$ELIMINATE_3])+length([$ELIMINATE_4])+length([$ELIMINATE_5])+length([$ELIMINATE_6])+length([$ELIMINATE_7])) ==1, ' task', ' tasks')"
+          },
+          {
+            "elmType": "div",
+            "style": {
+              "cursor": "pointer",
+              "background-color": "#f06262",
+              "width": "40px",
+              "height": "30px",
+              "position": "absolute",
+              "font-size": "20px",
+              "top": "750px",
+              "left": "1070px",
+              "padding-top": "10px",
+              "text-align": "center",
+              "border-radius": "0px 0px 0px 5px"
+            },
+            "attributes": {
+              "class": "sp-field-bold sp-css-color-BlackText",
+              "iconName": "Trash",
+              "title": "Delete all"
+            },
+            "customRowAction": {
+              "action": "setValue",
+              "actionInput": {
+                "ELIMINATE_1": "",
+                "ELIMINATE_2": "",
+                "ELIMINATE_3": "",
+                "ELIMINATE_4": "",
+                "ELIMINATE_5": "",
+                "ELIMINATE_6": "",
+                "ELIMINATE_7": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
