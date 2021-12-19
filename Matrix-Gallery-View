@@ -41,7 +41,7 @@
             "children": [
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_1]",
+                "inlineEditField": "[$field_1]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -55,14 +55,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_1]",
+                "txtContent": "[$field_1]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_2]",
+                "inlineEditField": "[$field_2]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -77,14 +77,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_2]",
+                "txtContent": "[$field_2]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_3]",
+                "inlineEditField": "[$field_3]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -99,14 +99,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_3]",
+                "txtContent": "[$field_3]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_4]",
+                "inlineEditField": "[$field_4]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -121,14 +121,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_4]",
+                "txtContent": "[$field_4]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_5]",
+                "inlineEditField": "[$field_5]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -143,14 +143,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_5]",
+                "txtContent": "[$field_5]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_6]",
+                "inlineEditField": "[$field_6]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -165,14 +165,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_6]",
+                "txtContent": "[$field_6]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DO_7]",
+                "inlineEditField": "[$field_7]",
                 "style": {
                   "--inline-editor-border-color": "green",
                   "cursor": "cell",
@@ -187,7 +187,7 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DO_7]",
+                "txtContent": "[$field_7]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-success--hover"
                 }
@@ -207,7 +207,7 @@
             "children": [
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_1]",
+                "inlineEditField": "[$field_8]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -221,14 +221,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_1]",
+                "txtContent": "[$field_8]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_2]",
+                "inlineEditField": "[$field_9]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -242,14 +242,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_2]",
+                "txtContent": "[$field_9]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_3]",
+                "inlineEditField": "[$field_10]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -263,14 +263,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_3]",
+                "txtContent": "[$field_10]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_4]",
+                "inlineEditField": "[$field_11]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -284,14 +284,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_4]",
+                "txtContent": "[$field_11]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_5]",
+                "inlineEditField": "[$field_12]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -305,14 +305,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_5]",
+                "txtContent": "[$field_12]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_6]",
+                "inlineEditField": "[$field_13]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -326,14 +326,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_6]",
+                "txtContent": "[$field_13]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$SCHEDULE_7]",
+                "inlineEditField": "[$field_14]",
                 "style": {
                   "--inline-editor-border-color": "darkblue",
                   "cursor": "cell",
@@ -347,7 +347,7 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$SCHEDULE_7]",
+                "txtContent": "[$field_14]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-communicationTint30--hover"
                 }
@@ -367,7 +367,7 @@
             "children": [
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_1]",
+                "inlineEditField": "[$field_15]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -381,14 +381,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_1]",
+                "txtContent": "[$field_15]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_2]",
+                "inlineEditField": "[$field_16]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -402,14 +402,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_2]",
+                "txtContent": "[$field_16]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_3]",
+                "inlineEditField": "[$field_17]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -423,14 +423,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_3]",
+                "txtContent": "[$field_17]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_4]",
+                "inlineEditField": "[$field_18]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -444,14 +444,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_4]",
+                "txtContent": "[$field_18]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_5]",
+                "inlineEditField": "[$field_19]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -465,14 +465,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_5]",
+                "txtContent": "[$field_19]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_6]",
+                "inlineEditField": "[$field_20]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -486,14 +486,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_6]",
+                "txtContent": "[$field_20]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$DELEGATE_7]",
+                "inlineEditField": "[$field_21]",
                 "style": {
                   "--inline-editor-border-color": "darkorange",
                   "cursor": "cell",
@@ -507,7 +507,7 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$DELEGATE_7]",
+                "txtContent": "[$field_21]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-warning--hover"
                 }
@@ -527,7 +527,7 @@
             "children": [
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_1]",
+                "inlineEditField": "[$field_22]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -541,14 +541,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_1]",
+                "txtContent": "[$field_22]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_2]",
+                "inlineEditField": "[$field_23]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -562,14 +562,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_2]",
+                "txtContent": "[$field_23]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_3]",
+                "inlineEditField": "[$field_24]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -583,14 +583,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_3]",
+                "txtContent": "[$field_24]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_4]",
+                "inlineEditField": "[$field_25]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -604,14 +604,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_4]",
+                "txtContent": "[$field_25]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_5]",
+                "inlineEditField": "[$field_26]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -625,14 +625,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_5]",
+                "txtContent": "[$field_26]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_6]",
+                "inlineEditField": "[$field_27]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -646,14 +646,14 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_6]",
+                "txtContent": "[$field_27]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
               },
               {
                 "elmType": "div",
-                "inlineEditField": "[$ELIMINATE_7]",
+                "inlineEditField": "[$field_28]",
                 "style": {
                   "--inline-editor-border-color": "darkred",
                   "cursor": "cell",
@@ -667,7 +667,7 @@
                   "text-align": "center",
                   "font-size": "15px"
                 },
-                "txtContent": "[$ELIMINATE_7]",
+                "txtContent": "[$field_28]",
                 "attributes": {
                   "class": "sp-field-bold sp-css-color-BlackText ms-bgColor-severeWarning--hover"
                 }
@@ -857,7 +857,7 @@
             "attributes": {
               "class": "sp-field-bold sp-css-color-BlackText"
             },
-            "txtContent": "='Do first' + ' has ' + (length([$DO_1])+length([$DO_2])+length([$DO_3])+length([$DO_4])+length([$DO_5])+length([$DO_6])+length([$DO_7])) + if((length([$DO_1])+length([$DO_2])+length([$DO_3])+length([$DO_4])+length([$DO_5])+length([$DO_6])+length([$DO_7])) ==1, ' task', ' tasks')"
+            "txtContent": "='Do first' + ' has ' + (length([$field_1])+length([$field_2])+length([$field_3])+length([$field_4])+length([$field_5])+length([$field_6])+length([$field_7])) + if((length([$field_1])+length([$field_2])+length([$field_3])+length([$field_4])+length([$field_5])+length([$field_6])+length([$field_7])) ==1, ' task', ' tasks')"
           },
           {
             "elmType": "div",
@@ -882,13 +882,13 @@
             "customRowAction": {
               "action": "setValue",
               "actionInput": {
-                "DO_1": "",
-                "DO_2": "",
-                "DO_3": "",
-                "DO_4": "",
-                "DO_5": "",
-                "DO_6": "",
-                "DO_7": ""
+                "field_1": "",
+                "field_2": "",
+                "field_3": "",
+                "field_4": "",
+                "field_5": "",
+                "field_6": "",
+                "field_7": ""
               }
             }
           },
@@ -909,7 +909,7 @@
             "attributes": {
               "class": "sp-field-bold sp-css-color-BlackText"
             },
-            "txtContent": "='Schedule' + ' has ' + (length([$SCHEDULE_1])+length([$SCHEDULE_2])+length([$SCHEDULE_3])+length([$SCHEDULE_4])+length([$SCHEDULE_5])+length([$SCHEDULE_6])+length([$SCHEDULE_7])) + if((length([$SCHEDULE_1])+length([$SCHEDULE_2])+length([$SCHEDULE_3])+length([$SCHEDULE_4])+length([$SCHEDULE_5])+length([$SCHEDULE_6])+length([$SCHEDULE_7])) ==1, ' task', ' tasks')"
+            "txtContent": "='Schedule' + ' has ' + (length([$field_8])+length([$field_9])+length([$field_10])+length([$field_11])+length([$field_12])+length([$field_13])+length([$field_14])) + if((length([$field_8])+length([$field_9])+length([$field_10])+length([$field_11])+length([$field_12])+length([$field_13])+length([$field_14])) ==1, ' task', ' tasks')"
           },
           {
             "elmType": "div",
@@ -934,13 +934,13 @@
             "customRowAction": {
               "action": "setValue",
               "actionInput": {
-                "SCHEDULE_1": "",
-                "SCHEDULE_2": "",
-                "SCHEDULE_3": "",
-                "SCHEDULE_4": "",
-                "SCHEDULE_5": "",
-                "SCHEDULE_6": "",
-                "SCHEDULE_7": ""
+                "field_8": "",
+                "field_9": "",
+                "field_10": "",
+                "field_11": "",
+                "field_12": "",
+                "field_13": "",
+                "field_14": ""
               }
             }
           },
@@ -961,7 +961,7 @@
             "attributes": {
               "class": "sp-field-bold sp-css-color-BlackText"
             },
-            "txtContent": "='Delegate ' + ' has ' + (length([$DELEGATE_1])+length([$DELEGATE_2])+length([$DELEGATE_3])+length([$DELEGATE_4])+length([$DELEGATE_5])+length([$DELEGATE_6])+length([$DELEGATE_7])) +  if((length([$DELEGATE_1])+length([$DELEGATE_2])+length([$DELEGATE_3])+length([$DELEGATE_4])+length([$DELEGATE_5])+length([$DELEGATE_6])+length([$DELEGATE_7])) ==1, ' task', ' tasks')"
+            "txtContent": "='Delegate ' + ' has ' + (length([$field_15])+length([$field_16])+length([$field_17])+length([$field_18])+length([$field_19])+length([$field_20])+length([$field_21])) +  if((length([$field_15])+length([$field_16])+length([$field_17])+length([$field_18])+length([$field_19])+length([$field_20])+length([$field_21])) ==1, ' task', ' tasks')"
           },
           {
             "elmType": "div",
@@ -986,13 +986,13 @@
             "customRowAction": {
               "action": "setValue",
               "actionInput": {
-                "DELEGATE_1": "",
-                "DELEGATE_2": "",
-                "DELEGATE_3": "",
-                "DELEGATE_4": "",
-                "DELEGATE_5": "",
-                "DELEGATE_6": "",
-                "DELEGATE_7": ""
+                "field_15": "",
+                "field_16": "",
+                "field_17": "",
+                "field_18": "",
+                "field_19": "",
+                "field_20": "",
+                "field_21": ""
               }
             }
           },
@@ -1013,7 +1013,7 @@
             "attributes": {
               "class": "sp-field-bold sp-css-color-BlackText"
             },
-            "txtContent": "='Eliminate ' + ' has ' + (length([$ELIMINATE_1])+length([$ELIMINATE_2])+length([$ELIMINATE_3])+length([$ELIMINATE_4])+length([$ELIMINATE_5])+length([$ELIMINATE_6])+length([$ELIMINATE_7])) +  if((length([$ELIMINATE_1])+length([$ELIMINATE_2])+length([$ELIMINATE_3])+length([$ELIMINATE_4])+length([$ELIMINATE_5])+length([$ELIMINATE_6])+length([$ELIMINATE_7])) ==1, ' task', ' tasks')"
+            "txtContent": "='Eliminate ' + ' has ' + (length([$field_22])+length([$field_23])+length([$field_24])+length([$field_25])+length([$field_26])+length([$field_27])+length([$field_28])) +  if((length([$field_22])+length([$field_23])+length([$field_24])+length([$field_25])+length([$field_26])+length([$field_27])+length([$field_28])) ==1, ' task', ' tasks')"
           },
           {
             "elmType": "div",
@@ -1038,13 +1038,13 @@
             "customRowAction": {
               "action": "setValue",
               "actionInput": {
-                "ELIMINATE_1": "",
-                "ELIMINATE_2": "",
-                "ELIMINATE_3": "",
-                "ELIMINATE_4": "",
-                "ELIMINATE_5": "",
-                "ELIMINATE_6": "",
-                "ELIMINATE_7": ""
+                "field_22": "",
+                "field_23": "",
+                "field_24": "",
+                "field_25": "",
+                "field_26": "",
+                "field_27": "",
+                "field_28": ""
               }
             }
           }
